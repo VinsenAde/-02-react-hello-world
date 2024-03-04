@@ -1,5 +1,5 @@
 Soal 1
-![image](https://drive.google.com/uc?export=view&id=1cTD85zvoFmRZczQ-xhVTJZC2GktoBTJp)
+https://drive.google.com/file/d/1pJY0VCpN7BH5jRhANfHXGug0Jv6HFg3w/view?usp=drive_link
 
 In the picture, please browse what is meant by:
 > TypeScript
@@ -22,6 +22,42 @@ D. App Router
 E. Import Alias:
 Import aliases, also known as module aliases, allow you to create shorter or more readable names for your imports. When you customize default import aliases, you are setting up alternative names for modules or directories that you frequently use in your code. This customization can make your code more concise and improve readability. For example, instead of importing a module with a long path, you can set up an alias to simplify the import statement.
 
+Difference between
+![image](https://drive.google.com/uc?export=view&id=1ea-gSS_T4GjJGfn1dN9gtVSvJM2NduYy)
+
+Next.js:
+
+What it does: Helps build React web applications.
+Key Features:
+Makes your website fast with server-side rendering.
+Easy navigation using the file system.
+Good for dynamic web apps, blogs, and e-commerce.
+https://drive.google.com/file/d/1GqfxFJd2pQNCpCccz4yWOjpJsu9WOUCX/view?usp=drive_link
+https://drive.google.com/file/d/1g8V3fGGCu_Rq6acWDP5P7su76_sxbZXF/view?usp=drive_link
+
+![image](https://drive.google.com/uc?export=view&id=1GqfxFJd2pQNCpCccz4yWOjpJsu9WOUCX)
+![image](https://drive.google.com/uc?export=view&id=1g8V3fGGCu_Rq6acWDP5P7su76_sxbZXF)
+Remix:
+
+What it does: A full-stack framework for fast, scalable apps.
+Key Features:
+Supports server-side rendering and static rendering.
+Special focus on separating concerns.
+Great for building big, performance-oriented projects.
+
+![image](https://drive.google.com/uc?export=view&id=1qSsdzveCVe3FA8LHUpYPgOB6OzO5JjCL)
+![image](https://drive.google.com/uc?export=view&id=1kNuZv12hAWjxefifTGVvrxaNF1I4YD0s)
+
+Gatsby:
+
+What it does: Builds super-fast, optimized websites.
+Key Features:
+Creates static files for your site.
+Uses GraphQL for efficient data fetching.
+Perfect for content-driven sites like blogs and documentation.
+In short, choose Next.js for dynamic web apps, Remix for big projects with a focus on performance, and Gatsby for fast, content-heavy websites.
+
+![image](https://drive.google.com/uc?export=view&id=1cTD85zvoFmRZczQ-xhVTJZC2GktoBTJp)
 
 Soal 2
 *Folders:
