@@ -1,6 +1,5 @@
 Soal 1
-https://drive.google.com/file/d/1pJY0VCpN7BH5jRhANfHXGug0Jv6HFg3w/view?usp=drive_link
-
+![image](https://drive.google.com/uc?export=view&id=1pJY0VCpN7BH5jRhANfHXGug0Jv6HFg3w)
 In the picture, please browse what is meant by:
 > TypeScript
 > ESLint
